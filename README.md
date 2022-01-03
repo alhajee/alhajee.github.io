@@ -1,37 +1,17 @@
 ## Muhammad Dauda
+![Profile Picture](https://media-exp1.licdn.com/dms/image/C4E03AQErP7ZPnR7nlA/profile-displayphoto-shrink_800_800/0/1637173929540?e=1646870400&v=beta&t=MnSA6mflZwbL9mwCOh_Ij1lTtA2KdYKRbOgRv3QkKtA)
 
-You can use the [editor on GitHub](https://github.com/alhajee/alhajee.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is **Muhammad** and I am a Nigerian, I have a background in computer science and I've worked in data science for 4 years now.
 
-### Markdown
+I started my journey as a **security enthisiast** where i help find _vulnarabilities_ in systems,
+Then worked my way up to a **full stack software engineer** where i have helped build solutions ranging from Web, Mobile & IOT,
+It was very challenging because prior to this role I have only found ways to break systems not build them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Finally, transitioning into a **machine learning engineer** where I now specialize in building, testing, deploying and maintaining ML systems in production,
+ensuring reliability and confidence across different slices of data (Measuring `performance decay`, `Fairness` & `Data drift` etc.)
 
-```markdown
-Syntax highlighted code block
+This has been a fun experience for me, which has allowed me look at things differently
+& also build machine learning systems with security & software engineering best practices in mind
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alhajee/alhajee.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Check out my profile on [LinkedIn](https://www.linkedin.com/in/muhammad-dauda/)
