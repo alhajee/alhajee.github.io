@@ -1,4 +1,3 @@
-## Muhammad Dauda
 ![Profile Picture](https://media-exp1.licdn.com/dms/image/C4E03AQErP7ZPnR7nlA/profile-displayphoto-shrink_800_800/0/1637173929540?e=1646870400&v=beta&t=MnSA6mflZwbL9mwCOh_Ij1lTtA2KdYKRbOgRv3QkKtA)
 
 
