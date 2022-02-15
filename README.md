@@ -1,6 +1,6 @@
 <!-- ![Profile Picture](https://media-exp1.licdn.com/dms/image/C4E03AQErP7ZPnR7nlA/profile-displayphoto-shrink_800_800/0/1637173929540?e=1646870400&v=beta&t=MnSA6mflZwbL9mwCOh_Ij1lTtA2KdYKRbOgRv3QkKtA) -->
 
-### Building the future
+### Building the future with a smile
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=alhajee&show_icons=true&theme=dark) ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alhajee&theme=dark)
 
 Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigerian, I obtained a major in in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
