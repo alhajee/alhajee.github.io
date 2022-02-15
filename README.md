@@ -3,16 +3,12 @@
 ### Building the future
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=alhajee&show_icons=true&theme=dark) ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alhajee&theme=dark)
 
-Hi, my name is **Muhammad** and I am a Nigerian, I have a background in computer science and I've worked in data science for 4 years now.
+Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigerian, I obtained a major in in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
 
-I started my journey as a **security enthisiast** where i help find _vulnarabilities_ in systems,
-Then worked my way up to a **full stack software engineer** where i have helped build solutions ranging from Web, Mobile & IOT,
-It was very challenging because prior to this role I have only found ways to break systems not build them.
+I started my journey as a **security enthusiast** where I helped find vulnerabilities in systems. Then I worked my way up to a **full stack software engineer** where I built solutions ranging from Web, Mobile & IOT. It was very challenging because prior to this role I have only found ways to break systems, not build them. Some of my key contributions include discovering & patching architectural and design flaws in a major Government system, building a platform that uses real-time GIS data in for dispatching and managing logistics.
 
-Finally, transitioning into a **machine learning engineer** where I now specialize in building, testing, deploying and maintaining ML systems in production,
-ensuring reliability and confidence across different slices of data (Measuring `performance decay`, `Fairness` & `Data drift` etc.)
+Finally, transitioning into a **machine learning engineer** where I specialized in building, testing, deploying and maintaining ML systems in production, I am able to ensure reliability and confidence across different slices of data (`Measuring performance decay, Fairness & Data drift etc.`) My most recent work includes leading a team of Engineers to build a `Demand forecasting` model that analyzes `Time-series` data and predicts product `inventory & sales`.
 
-This has been a fun experience for me, which has allowed me look at things differently
-& also build machine learning systems with security & software engineering best practices in mind
+Overall, it has been a fun experience for me, and my diverse experience has allowed me to look at things differently & also build systems with security & software engineering best practices in mind.
 
 Check out my profile on [LinkedIn](https://www.linkedin.com/in/muhammad-dauda/)
