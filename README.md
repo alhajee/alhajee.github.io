@@ -3,7 +3,7 @@
 ### Building the future with a smile
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=alhajee&show_icons=true&theme=dark) ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alhajee&theme=dark)
 
-Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigerian, I obtained a major in in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
+Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigerian, I obtained a major in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
 
 I started my journey as a **security enthusiast** where I helped find vulnerabilities in systems. Then I worked my way up to a **full stack software engineer** where I built solutions ranging from Web, Mobile & IOT. It was very challenging because prior to this role I have only found ways to break systems, not build them. Some of my key contributions include discovering & patching architectural and design flaws in a major Government system, building a platform that uses real-time GIS data in for dispatching and managing logistics.
 
