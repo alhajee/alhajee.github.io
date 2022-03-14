@@ -1,5 +1,5 @@
 ### Building the future with a smile
-![Profile Picture](https://drive.google.com/file/d/15EojufWsHRMPJMC1NxQflDki6gQm8ub5/view?usp=sharing | width=60)
+![Profile Picture](https://drive.google.com/file/d/15EojufWsHRMPJMC1NxQflDki6gQm8ub5/view?usp=sharing | width=40 | height=40)
 
 Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigeria, I obtained a major in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
 
