@@ -1,9 +1,8 @@
 # Muhammad Dauda
 
-### Building the future with a smile
-![Profile Picture](https://drive.google.com/file/d/15EojufWsHRMPJMC1NxQflDki6gQm8ub5/view?usp=sharing | width=40 | height=40)
+### Building the future with a smile 😁
 
-Hi, I’m **Muhammad**, A FullStack Software Engineer from Nigeria, I obtained a major in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
+Hi there 👋, I’m **Muhammad**, A FullStack Software Engineer from Nigeria, I obtained a major in computer science and I've worked in industries like E-Commerce, Fintech and Data science.
 
 I started my journey as a **security enthusiast** where I helped find vulnerabilities in systems. Then I worked my way up to a **full stack software engineer** where I built solutions ranging from Web, Mobile & IOT. This was a challenging transition for me because prior to this role I have only found ways to break systems, not build them. Some of my key contributions include discovering & patching architectural and design flaws in a number of Government agencies, building a platform that uses real-time data in for dispatching and managing logistics.
 
