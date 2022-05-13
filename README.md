@@ -8,6 +8,8 @@ I started my journey as a **security enthusiast** where I helped find vulnerabil
 
 Finally, transitioning into a **machine learning engineer** where I specialized in building, testing, deploying and maintaining ML systems in production, I am able to ensure reliability and confidence across different slices of data (`Measuring performance decay, Fairness & Data drift etc.`) My most recent work includes leading a team of Engineers to build a `Demand forecasting` model that analyzes `Time-series` data and predicts product `inventory & sales`.
 
+---
+
 Overall, it has been a fun experience for me, and my diverse experience has allowed me to look at things differently & also build systems with security & software engineering best practices in mind.
 
-Check out my profile on [LinkedIn](https://www.linkedin.com/in/muhammad-dauda/)
+Check out my profile on [LinkedIn](https://www.linkedin.com/in/muhammad-dauda/ "My LinkedIn profile")
